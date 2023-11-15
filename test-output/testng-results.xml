@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-15T14:56:05 IST" name="Default suite" finished-at="2023-11-15T14:56:07 IST" duration-ms="2177">
+    <groups>
+    </groups>
+    <test started-at="2023-11-15T14:56:05 IST" name="Default test" finished-at="2023-11-15T14:56:07 IST" duration-ms="2177">
+      <class name="com.SportyShoes.restAssuredScripts.Update_product">
+        <test-method signature="update_a_product()[pri:0, instance:com.SportyShoes.restAssuredScripts.Update_product@2eae8e6e]" started-at="2023-11-15T14:56:05 IST" name="update_a_product" finished-at="2023-11-15T14:56:07 IST" duration-ms="2094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_a_product -->
+      </class> <!-- com.SportyShoes.restAssuredScripts.Update_product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
